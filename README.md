@@ -15,6 +15,15 @@ K-Traffic-Analyzer 是一款专业的网络流量分析工具，专注于安全�
 - **WebShell上传检测**: PHP/JSP/ASP/ASPX 恶意文件上传识别
 - **文件提取**: 自动提取图片、音频、视频、文档、压缩包等文件
 
+## 系统截图
+<img width="3344" height="1808" alt="image" src="https://github.com/user-attachments/assets/b6fad435-9adf-4d94-a736-e7ab77f7c3f1" />
+<img width="3160" height="1778" alt="image" src="https://github.com/user-attachments/assets/b0113062-681d-49f2-8d4e-61706d3c832a" />
+<img width="1618" height="891" alt="image" src="https://github.com/user-attachments/assets/ad06dce3-b552-4321-b531-4ce66270dfdb" />
+<img width="1672" height="895" alt="image" src="https://github.com/user-attachments/assets/2efb11f2-6f0c-45d5-9f38-6c29ffbd1bf5" />
+
+
+
+
 ## ✨ 特性
 
 - 🌐 **Web界面**: 现代化的深色主题UI，支持拖拽上传
